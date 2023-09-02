@@ -39,10 +39,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsomyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-## 🤝 Connect 
+## 🤝 Portfolio 
 <p>
-  <a href="https://instagram.com/stefany_vasc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cypress-adasaurus-110.notion.site/62c19d33de0d4ec5af380ed4817fcefc?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/gkathaud4884-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
