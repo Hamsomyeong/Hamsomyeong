@@ -36,7 +36,7 @@
 
 
 ## 📈 GitHub Stats 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkathaud)](https://solved.ac/gkathaud/) &nbsp;&nbsp;&nbsp;&nbsp;
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkathaud)](https://solved.ac/gkathaud/) &nbsp;&nbsp;&nbsp;&nbsp;-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsomyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
