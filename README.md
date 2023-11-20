@@ -40,12 +40,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsomyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-## 🤝 Portfolio 
-<p>
-  <a href="https://cypress-adasaurus-110.notion.site/62c19d33de0d4ec5af380ed4817fcefc?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/gkathaud4884-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <!--
 **Hamsomyeong/Hamsomyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
